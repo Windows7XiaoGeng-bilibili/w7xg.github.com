@@ -15,7 +15,7 @@
       <p><b>地址：烟台市芝罘区，邮编264000</b></p>
     </td>
     <td width="25%">
-      <img src="/Windows7.jpg" width="100%">      % 插入证件照代码
+      <img src="/Windows7.jpg" width="100%">     
     </td>
   </tr>
 </table>
