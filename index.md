@@ -29,7 +29,7 @@
 <p><h4><a href="3.html">【it之家】Windows10 20H2，开始菜单的新变化</a></H4></p>
 <p><h2>是否在寻找其他内容？</h2></p>
 <p><h4><a href="English.html">English？</a></h4></p>
- <p><h4><a href="problems.html">浏览有问题？</a></h4></p> 
+ <p><h4><a href="P.html">浏览有问题？</a></h4></p> 
  <p><h4><a href="https://space.bilibili.com/443161706">作者B站首页？</a></h4></p>
   </div>
  </body>
