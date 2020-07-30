@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -117,20 +116,20 @@
         <label>
             <span>Contact:</span>
             <select name="select2" class="select2">
-                <option value="Email">Email</option>
-                <option value="Phone">Phone</option>
-                <option value="QQ">QQ</option>
+                <option value="Email">电子邮件</option>
+                <option value="Phone">手机号码</option>
+                <option value="QQ">QQ号码</option>
             </select>
             <input type="text" placeholder="">
         </label>
         <label>
-            <span>Message:</span>
-            <textarea id="mesaage" name="message" placeholder="Your can tell me"></textarea>
+            <span>信息:</span>
+            <textarea id="mesaage" name="message" placeholder="在此输入您的意见和建议"></textarea>
         </label>
         <label>
             <span>Subject:</span>
             <select name="select1" class="select1">
-                <option value="Job Inquiry">Job Inquiry</option>
+                <option value="Job Inquiry“>Job Inquiry</option>
                 <option value="General Question">General Question</option>
             </select>
         </label>
