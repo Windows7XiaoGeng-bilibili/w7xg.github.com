@@ -1,3 +1,9 @@
+<html>
+<head>
+</head>
+<body>
+      <div style="width:70%;margin:0 auto">
+
 ## 欢迎来到Windows7小耿的个人主页
 
 ### 网站介绍
