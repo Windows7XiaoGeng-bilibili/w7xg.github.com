@@ -28,7 +28,7 @@
 <p><h4><a href="2.html">Some summary about the installation and configuration of Black Apple</a></H4></p>
 <p><h4><a href="3.html">[it Home] Windows10 20H2, new changes in the start menu</a></H4></p>
 <p><h2>Are you looking for other content? </h2></p>
-<p><h4><a href="English.html">English? </a></h4></p>
+<p><h4><a href="index.html">简体中文? </a></h4></p>
  <p><h4><a href="problems.html">Browsing problems? </a></h4></p>
  <p><h4><a href="https://space.bilibili.com/443161706">Author B’s homepage? </a></h4></p>
   </div>
