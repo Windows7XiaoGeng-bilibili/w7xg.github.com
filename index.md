@@ -81,7 +81,7 @@ visits = parseInt(visits) + 1
 setCookie("counter", visits, now)
 document.write("欢迎光临本站，您是第" + visits + "访问者！")
 // -->
-</SCRIPT>
-  </div>
- </body>
+  </SCRIPT>
+ </div>
+</body>
 </html>
