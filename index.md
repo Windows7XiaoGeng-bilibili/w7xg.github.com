@@ -4,7 +4,7 @@
 <body>
       <div style="width:100%;margin:0 auto">
             <P><h1>欢迎来到Windows7小耿的个人主页</h1></P>
-            <P><h2>网站介绍<</h2></P>
+            <P><h2>网站介绍</h2></P>
             <P><a>网站自2020年7月开始创办，采用html语言编写，旨在提供一个科技交往平台</a></P>
             <P><h2>个人介绍</h2></P>
             <table border="0">
