@@ -14,7 +14,7 @@
           <p><b>B站某不知名UP主</b></p>
           <p><b>哔哩哔哩学院</b></p>
           <p><b>邮箱：xsxg123456@outlook.com</b></p>
-          <p><b><地区：中国 烟台，邮编264000<</b></p>
+          <p><b>地区：中国 烟台，邮编264000</b></p>
     </td>
     <td width="25%">
       <img src="Windows7.jpg" width="100%">    
@@ -31,7 +31,7 @@
 <p><h4><a href="5.html">【四千万合影】我的烤面筋，融化你的心</a></h4></p> 
 <p><h4><a href="6.html">【镇站之宝】跟我走吧别害怕</a></h4></p>
 <p><h4><a href="7.html">【镇站之宝】the nights</a></h4></p>
-<p><h2>是否在寻找其他内容？/h2></p>
+<p><h2>是否在寻找其他内容？</h2></p>
 <p><h4><a href="index.html">主站</a></h4></p>
 <p><h4><a href="English.html">English</a></h4></p>
  <p><h4><a href="P.html">浏览有问题？</a></h4></p> 
