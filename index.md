@@ -25,7 +25,7 @@
       <p><h3><center>2020年7月</center></h3></P>
   <p><h4><center><a href="0.html">【置顶】关于网站</center></a></H4></p>
 <p><h4><center><a href="1.html">【置顶】音乐集锦</center></a></h4></p>
-<p><h4<center>><a href="2.html">【Windows7小耿】关于黑苹果安装和配置的一些总结</center></a></H4></p>
+<p><h4<center><a href="2.html">【Windows7小耿】关于黑苹果安装和配置的一些总结</center></a></H4></p>
 <p><h4><center><a href="3.html">【it之家】Windows10 20H2，开始菜单的新变化</center></a></H4></p>
 <p><h4><center><a href="4.html">【哲♂学】waiting for love</center></a></h4></p>
 <p><h4><center><a href="5.html">【四千万合影】我的烤面筋，融化你的心</center></a></h4></p> 
