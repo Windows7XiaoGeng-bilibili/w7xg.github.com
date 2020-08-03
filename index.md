@@ -33,7 +33,7 @@
 <p><h4><a href="6.html">【镇站之宝】跟我走吧别害怕</a></h4></p>
 <p><h4><a href="7.html">【镇站之宝】the nights</a></h4></p>
 <p><h3>2020年8月</h3></p>
-<p><h4><a href="http://blog.yoqi.me/lyq/16489.html">解决github被墙问题。</h4></p>
+<p><h4><a href="http://blog.yoqi.me/lyq/16489.html">解决github被墙问题</h4></p>
 <p><h4><a href="8.html">hosts文件位置</h4></p>
 <p><h2>是否在寻找其他内容？</h2></p>
 <p><h4><a href="index.html">主站</a></h4></p>
