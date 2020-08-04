@@ -19,16 +19,8 @@
     </td>
     <td width="25%">
       <img id="target" src="Windows7.jpg" width="100%"> 
-      <script>
-        window.onload = function(){
-            var current = 0;
-document.getElementById('target').onclick = function(){
-current = (current+90)%360;
-      this.style.transform = 'rotate('+current+'deg)';
-            }
-            };
-          </script>
-    </td>
+     
+ </td>
         </tr>
             </table>
             <p><h2><a href="video.html">鬼畜视频合集</a></h2></p>
