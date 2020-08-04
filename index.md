@@ -30,8 +30,8 @@
          <p><h4><a href="2.html">【Windows7小耿】关于黑苹果安装和配置的一些总结</a></H4></p>
          <p><h4><a href="3.html">【it之家】Windows10 20H2，开始菜单的新变化</a></H4></p>
          <p><h3>2020年8月</h3></p>
-         <p><h4><a href="http://blog.yoqi.me/lyq/16489.html">解决github被墙问题</h4></p>
-         <p><h4><a href="8.html">hosts文件位置</h4></p>
+         <p><h4><a href="http://blog.yoqi.me/lyq/16489.html">解决github被墙问题</a></h4></p>
+         <p><h4><a href="8.html">hosts文件位置</a></h4></p>
          <p><h2>是否在寻找其他内容？</h2></p>
          <p><h4><a href="index.html">主站</a></h4></p>
          <p><h4><a href="English.html">English</a></h4></p>
