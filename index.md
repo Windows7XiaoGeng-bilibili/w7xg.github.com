@@ -23,7 +23,7 @@
         window.onload = function(){
             var current = 0;
 document.getElementById('target').onclick = function(){
-current = (current+360)%360;
+current = (current+90)%360;
       this.style.transform = 'rotate('+current+'deg)';
             }
             };
