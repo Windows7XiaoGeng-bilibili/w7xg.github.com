@@ -1,4 +1,4 @@
-<title itemprop="name">Windows7小耿的个人主页</title>
+<title>Windows7小耿的个人主页</title>
 <html>
 <head>
 </head>
@@ -22,10 +22,10 @@
     </td>
         </tr>
             </table>
-            <h2><a href="video.html">鬼畜视频合集</h2>
+             <h2><a href="video.html">鬼畜视频合集</h2>
             <p><h2>精品文章</h2></p>
       <p><h3>2020年7月</h3></P>
-  <p><h4><a href="0.html">【置顶】关于网站</a></H4></p>
+<p><h4><a href="0.html">【置顶】关于网站</a></H4></p>
 <p><h4><a href="1.html">【置顶】音乐集锦</a></h4></p>
 <p><h4><a href="2.html">【Windows7小耿】关于黑苹果安装和配置的一些总结</a></H4></p>
 <p><h4><a href="3.html">【it之家】Windows10 20H2，开始菜单的新变化</a></H4></p>
