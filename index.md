@@ -18,7 +18,16 @@
           <p><b>地区：中国 烟台，邮编264000</b></p>
     </td>
     <td width="25%">
-      <img src="Windows7.jpg" width="100%">    
+      <img id="target" src="Windows7.jpg" width="100%"> 
+      <script>
+        window.onload = function(){
+            var current = 0;
+document.getElementById('target').onclick = function(){
+current = (current+360)%360;
+      this.style.transform = 'rotate('+current+'deg)';
+            }
+            };
+          </script>
     </td>
         </tr>
             </table>
