@@ -22,7 +22,7 @@
     </td>
         </tr>
             </table>
-            <p><h2><a href="video.html">鬼畜视频合集</h2></p>
+            <h2><a href="video.html">鬼畜视频合集</h2>
             <p><h2>精品文章</h2></p>
       <p><h3>2020年7月</h3></P>
   <p><h4><a href="0.html">【置顶】关于网站</a></H4></p>
