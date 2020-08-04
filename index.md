@@ -37,7 +37,7 @@
          <p><h4><a href="English.html">English</a></h4></p>
          <p><h4><a href="P.html">浏览有问题？</a></h4></p> 
          <p><h4><a href="https://space.bilibili.com/443161706">作者B站首页？</a></h4></p> 
-         <p><h4><a href="video.html">鬼畜视频合集<?a></h4></p>
+         <p><h4><a href="video.html">鬼畜视频合集</a></h4></p>
     </div>
   </body>
 </html>
