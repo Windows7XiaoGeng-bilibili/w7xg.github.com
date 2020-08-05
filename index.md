@@ -38,16 +38,12 @@
          <p><h4><a href="P.html">浏览有问题？</a></h4></p> 
          <p><h4><a href="https://space.bilibili.com/443161706">作者B站首页？</a></h4></p> 
          <p><h4><a href="video.html">鬼畜视频合集</a></h4></p>
-         <p><a href="https://github.com/windows7xiaogeng-bilibili"><img src="github.jpg“ height=16 width=16></a><a href="mailto:xsxg123456@outlook.com"<img src="outlook.gif" height=16 width=16></a></p>
-     <footer id="footer">
-    <div class="footer-left">
-        Copyright &copy;
+         <p><a href="https://github.com/windows7xiaogeng-bilibili"><img src="github.jpg" height=32 width=32></a>
+            <a href="mailto:xsxg123456@outlook.com"><img src="outlook.gif" height=32 width=32></a></p>
+     Copyright &copy;
             2020
                 Windows7小耿
-                    <span id="busuanzi_container_site_pv">
-                    | 总访问量<span id="busuanzi_value_site_pv"></span>次
-                    </span>
-    </div>
+                  </div>
   </body>
 </html>
  
