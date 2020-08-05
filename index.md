@@ -38,9 +38,12 @@
          <p><h4><a href="P.html">浏览有问题？</a></h4></p> 
          <p><h4><a href="https://space.bilibili.com/443161706">作者B站首页？</a></h4></p> 
          <p><h4><a href="video.html">鬼畜视频合集</a></h4></p>
-         <p><a href="https://github.com/windows7xiaogeng-bilibili"><img src="github.jpg" height=32 width=32></a>
-            <a href="mailto:xsxg123456@outlook.com"><img src="outlook.gif" height=32 width=32></a></p>
-     Copyright &copy;
+         <p><a href="https://github.com/windows7xiaogeng-bilibili"><img src="github.jpg" height=64 width=64></a>
+        <a href="mailto:xsxg123456@outlook.com"><img src="outlook.gif" height=64 width=64></a>
+         <a href="404.html"><img src="twitter.jpg" height=64 width=64></p>
+         <a href="404.html"><img src="youtube.png" height=64 width=64></p>
+         <a href="404.html"><img src="facebook.jpg" height=64 width=64></p>
+      Copyright &copy;
             2020
                 Windows7小耿
                   </div>
