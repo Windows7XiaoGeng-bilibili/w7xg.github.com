@@ -1,5 +1,7 @@
+<!-- title -->
+    <title>Windows7小耿的个人网站</title>
+    <!-- styles -->
 <html>
-<title>Windows7小耿的个人主页</title>  
 <head>
 </head>
 <body>
