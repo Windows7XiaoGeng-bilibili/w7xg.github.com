@@ -40,8 +40,8 @@
          <p><h4><a href="video.html">鬼畜视频合集</a></h4></p>
          <p><a href="https://github.com/windows7xiaogeng-bilibili"><img src="github.jpg" height=64 width=64></a>
         <a href="mailto:xsxg123456@outlook.com"><img src="outlook.gif" height=64 width=64></a>
-         <a href="404.html"><img src="twitter.jpg" height=64 width=64></p>
-         <a href="404.html"><img src="youtube.png" height=64 width=64></p>
+         <a href="404.html"><img src="twitter.jpg" height=64 width=64>
+         <a href="404.html"><img src="youtube.png" height=64 width=64>
          <a href="404.html"><img src="facebook.jpg" height=64 width=64></p>
       Copyright &copy;
             2020
