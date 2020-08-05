@@ -49,6 +49,15 @@
       ---></a><!--
       ---><!--
     --->.</p>
+    <footer id="footer">
+    <div class="footer-left">
+        Copyright &copy;
+            2020
+                Windows7小耿
+                    <span id="busuanzi_container_site_pv">
+                    | 总访问量<span id="busuanzi_value_site_pv"></span>次
+                    </span>
+    </div>
          
    </div>
   </body>
