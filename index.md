@@ -38,11 +38,12 @@
          <p><h4><a href="P.html">浏览有问题？</a></h4></p> 
          <p><h4><a href="https://space.bilibili.com/443161706">作者B站首页？</a></h4></p> 
          <p><h4><a href="video.html">鬼畜视频合集</a></h4></p>
-         <p><a href="https://github.com/windows7xiaogeng-bilibili"><img src="github.jpg" alt="pic" height=64 width=64></a>
-      <a href="mailto:xsxg123456@outlook.com"><img src="outlook.gif" alt="pic" height=64 width=64></a>
-      <a href="404.html"><img src="twitter.jpg" alt="pic" height=64 width=64></a>
-      <a href="404.html"><img src="youtube.png" alt="pic" height=64 width=64></a>
-      <a href="404.html"><img src="facebook.jpg" alt="pic" height=64 width=64></a></p>
+         <p><h2>关注作者</h2></p>
+         <p><a href="https://github.com/windows7xiaogeng-bilibili"><img src="github.jpg" alt="pic" height=64 width=64>Github</a>
+      <a href="mailto:xsxg123456@outlook.com"><img src="outlook.gif" alt="pic" height=64 width=64>Outlook</a>
+      <a href="404.html"><img src="twitter.jpg" alt="pic" height=64 width=64>Twitter</a>
+      <a href="404.html"><img src="youtube.png" alt="pic" height=64 width=64>YouTuBe</a>
+      <a href="404.html"><img src="facebook.jpg" alt="pic" height=64 width=64>FaceBook</a></p>
       </div>
    </body>
 </html>
