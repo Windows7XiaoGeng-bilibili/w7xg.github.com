@@ -44,7 +44,7 @@
         <a href="404.html"><img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/twitter.jpg" width="54" height="54">
           <a href="404.html"><img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/youtube.png" width="54" height="54">  
         <a href="404.html"><img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/facebook.jpg" width="54" height="54">                
-      </div>
-   </body>
-</html>
+      
+   
+
  
