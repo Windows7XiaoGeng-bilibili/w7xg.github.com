@@ -44,7 +44,7 @@
       ---></a><!--
     ---><!--
     --->  
-    <a class="icon" target="_blank" href="xsxg123456@outlook.com">
+    <a class="icon" target="_blank" href="mailto:xsxg123456@outlook.com">
             <i class="fas fa-envelope"></i><!--
       ---></a><!--
       ---><!--
