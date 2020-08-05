@@ -39,7 +39,18 @@
          <p><h4><a href="P.html">浏览有问题？</a></h4></p> 
          <p><h4><a href="https://space.bilibili.com/443161706">作者B站首页？</a></h4></p> 
          <p><h4><a href="video.html">鬼畜视频合集</a></h4></p>
-    </div>
+         <p><a class="icon" target="_blank" href="https://github.com/windows7xiaogeng-bilibili">
+            <i class="fab fa-github"></i><!--
+      ---></a><!--
+    ---><!--
+    --->  
+    <a class="icon" target="_blank" href="xsxg123456@outlook.com">
+            <i class="fas fa-envelope"></i><!--
+      ---></a><!--
+      ---><!--
+    --->.</p>
+         
+   </div>
   </body>
 </html>
  
