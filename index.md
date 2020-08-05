@@ -39,6 +39,7 @@
          <p><h4><a href="https://space.bilibili.com/443161706">作者B站首页？</a></h4></p> 
          <p><h4><a href="video.html">鬼畜视频合集</a></h4></p>
          <p><h2>关注作者</h2></p>
+          <img id="target" src="github.jpg" width=64 height=64> 
 <P><img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/github.jpg" alt="pic" height=64 width=64></a>
  <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/outlook.gif" alt="pic" height=64 width=64></a>
  <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/twitter.jpg" alt="pic" height=64 width=64></a>
