@@ -41,10 +41,10 @@
          <p><h4><a href="P.html">浏览有问题？</a></h4></p> 
          <p><h4><a href="https://space.bilibili.com/443161706">作者B站首页？</a></h4></p> 
          <p><h4><a href="video.html">鬼畜视频合集</a></h4></p>
-         <p><a class="icon" target="_blank" href="https://github.com/windows7xiaogeng-bilibili">
          <link rel="icon" type="image/jpg" href="github.jpg" sizes="192x192">
-         <link rel="icon" type="image/gif" href="Outlook.png" sizes="192x192">
-            <i class="fab fa-github"></i><!--
+         <link rel="icon" type="image/gif" href="Outlook.gif" sizes="192x192">
+        <p><a class="icon" target="_blank" href="https://github.com/windows7xiaogeng-bilibili">
+        <i class="fab fa-github"></i><!--
       ---></a><!--
     ---><!--
     --->  
