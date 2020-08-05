@@ -1,6 +1,3 @@
-<!-- title -->
-    <title>Windows7小耿的个人网站</title>
-    <!-- styles -->
 <html>
 <head>
 </head>
@@ -41,19 +38,8 @@
          <p><h4><a href="P.html">浏览有问题？</a></h4></p> 
          <p><h4><a href="https://space.bilibili.com/443161706">作者B站首页？</a></h4></p> 
          <p><h4><a href="video.html">鬼畜视频合集</a></h4></p>
-         <link rel="icon" type="image/jpg" href="github.jpg" sizes="192x192">
-         <link rel="icon" type="image/gif" href="Outlook.gif" sizes="192x192">
-        <p><a class="icon" target="_blank" href="https://github.com/windows7xiaogeng-bilibili">
-        <i class="fab fa-github"></i><!--
-      ---></a><!--
-    ---><!--
-    --->  
-    <a class="icon" target="_blank" href="mailto:xsxg123456@outlook.com">
-            <i class="fas fa-envelope"></i><!--
-      ---></a><!--
-      ---><!--
-    --->.</p>
-    <footer id="footer">
+         <p><a href="https://github.com/windows7xiaogeng-bilibili"><img src="github.jpg height=32 width=32></a><a href="mailto:xsxg123456@outlook.com" height=32 width=32><img src="outlook.gif"></a></p>
+     <footer id="footer">
     <div class="footer-left">
         Copyright &copy;
             2020
