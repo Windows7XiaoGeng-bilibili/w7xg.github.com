@@ -40,15 +40,15 @@
          <p><h4><a href="video.html">鬼畜视频合集</a></h4></p>
          <p><h2>关注作者</h2></p>
        <p><a href="https://github.com/windows7xiaogeng-bilibili">
-      <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/github.jpg" alt="pic" height=64 width=64></a>
-      <a href="mailto:xsxg123456@outlook.com">
-      <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/outlook.gif" alt="pic" height=64 width=64></a>
-      <a href="404.html">
-      <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/twitter.jpg" alt="pic" height=64 width=64></a>
-      <a href="404.html">
-      <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/youtube.png" alt="pic" height=64 width=64></a>
-      <a href="404.html">
-      <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/facebook.jpg" alt="pic" height=64 width=64></a></p>
+      <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/github.jpg" alt="pic" height=64 width=64></a></p>
+    <p><a href="mailto:xsxg123456@outlook.com">
+      <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/outlook.gif" alt="pic" height=64 width=64></a></p>
+     <p><a href="404.html">
+     <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/twitter.jpg" alt="pic" height=64 width=64></a></p>
+    <p><a href="404.html">
+     <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/youtube.png" alt="pic" height=64 width=64></a></p>
+      <p><a href="404.html">
+    <img src="https://windows7xiaogeng-bilibili.github.io/w7xg.github.io/facebook.jpg" alt="pic" height=64 width=64></a></p>
       </div>
    </body>
 </html>
