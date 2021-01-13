@@ -2,9 +2,9 @@
 
 #### There are some things I have done:
 
-*Blog with jekyll* https://blog.w7xg.tk
-<br>
-*Website by cdnjsdelivr* https://w7xg.tk
+*Blog with jekyll  https://blog.w7xg.tk*
+
+*Website by cdnjsdelivr  https://w7xg.tk*
 
 #### About me
 **https://w7xg.tk/about**
