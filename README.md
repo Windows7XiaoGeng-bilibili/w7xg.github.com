@@ -1,17 +1,19 @@
 ### Hi there 👋
 
-<!--
-**w7xg/w7xg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### There are some things I have done:
 
-Here are some ideas to get you started:
+*Blog with jekyll* https://blog.w7xg.tk
+*Website by cdnjsdelivr* https://w7xg.tk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-FUCK THE WORLD
+#### About me
+**https://w7xg.tk/about**
+**https://blog.w7xg.tk/about**
+
+*Area: Yantai, China , Asia , Earth*
+
+#### Fuck the world
+
+``` bash
+print ("Hello World")
+```
+
