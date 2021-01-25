@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-#### There are some things I have done:
+#### Something I am doing
 
-*Blog with jekyll  https://blog.w7xg.tk*
+**Keep on using <a href="https://www.github.com/viosey/hexo-theme-material">hexo-theme-material</a>
 
-*Website by cdnjsdelivr  https://w7xg.tk*
+
 
 #### About me
-**https://w7xg.tk/about**
-**https://blog.w7xg.tk/about**
+**https://w7xg.now.sh/about**
 
 *Area: Yantai, China , Asia , Earth*
 
