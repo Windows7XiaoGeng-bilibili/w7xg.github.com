@@ -2,7 +2,7 @@
 
 #### Something I am doing
 
-**Keep on using <a href="https://www.github.com/viosey/hexo-theme-material">hexo-theme-material</a>
+**Keep on using <a href="https://www.github.com/viosey/hexo-theme-material">hexo-theme-material</a>**
 
 
 
