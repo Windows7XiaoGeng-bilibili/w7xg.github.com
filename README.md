@@ -2,13 +2,14 @@
 
 #### Something I am doing
 
-**Keep on using <a href="https://www.github.com/viosey/hexo-theme-material">hexo-theme-material</a>**
+**Learning <a href="https://nextjs.org">Next.js</a>**
 
-
+#### Website
+*https://w7xg.vercel.app*
+*https://apis.w7xg.vercel.app*
 
 #### About me
-**https://w7xg.now.sh/about**
-
+**John Andrew**
 *Area: Yantai, China , Asia , Earth*
 
 #### Fuck the world
